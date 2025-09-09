@@ -45,4 +45,12 @@ export const gameLinks = {
     "Trimps": "https://rawcdn.githack.com/udbsite/gfiles/6c7d0cb7deb7dce0b2abab6046cdae45e792b7ed/gfiles/html5/trimps/index.html",
     "Under Run": "https://rawcdn.githack.com/udbsite/gfiles/6c7d0cb7deb7dce0b2abab6046cdae45e792b7ed/gfiles/html5/underrun/index.html",
     "xx142-b2exe": "https://rawcdn.githack.com/udbsite/gfiles/6c7d0cb7deb7dce0b2abab6046cdae45e792b7ed/gfiles/html5/xx142-b2exe/index.html",
+    "60 Second Burger Run": "https://rawcdn.githack.com/gamelist1990/Interstellar/9318db26a2fdc0fc0b7ddaba17c08a027304277b/public/play/60-second-burger-run/index.html",
+    "Electric Man 2": "https://rawcdn.githack.com/gamelist1990/Interstellar/9318db26a2fdc0fc0b7ddaba17c08a027304277b/public/play/electric_man_2/index.html",
+    "QWOP": "https://rawcdn.githack.com/gamelist1990/Interstellar/9318db26a2fdc0fc0b7ddaba17c08a027304277b/public/play/qwop/index.html",
+    "Retro Bowl": "https://rawcdn.githack.com/gamelist1990/Interstellar/9318db26a2fdc0fc0b7ddaba17c08a027304277b/public/play/retro-bowl/index.html",
+    "Riddle School": "https://rawcdn.githack.com/gamelist1990/Interstellar/9318db26a2fdc0fc0b7ddaba17c08a027304277b/public/play/riddle%20school/index.html",
+    "Stickman Hook": "https://rawcdn.githack.com/gamelist1990/Interstellar/9318db26a2fdc0fc0b7ddaba17c08a027304277b/public/play/stickman-hook/index.html",
+    "Subway Surfers": "https://rawcdn.githack.com/gamelist1990/Interstellar/9318db26a2fdc0fc0b7ddaba17c08a027304277b/public/play/subway-surfers-unity/index.html",
+    "Tanuki Sunset": "https://rawcdn.githack.com/gamelist1990/Interstellar/9318db26a2fdc0fc0b7ddaba17c08a027304277b/public/play/tanuki-sunset/index.html",
 }
