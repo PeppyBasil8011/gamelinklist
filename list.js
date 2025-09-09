@@ -53,4 +53,5 @@ export const gameLinks = {
     "Stickman Hook": "https://rawcdn.githack.com/gamelist1990/Interstellar/9318db26a2fdc0fc0b7ddaba17c08a027304277b/public/play/stickman-hook/index.html",
     "Subway Surfers": "https://rawcdn.githack.com/gamelist1990/Interstellar/9318db26a2fdc0fc0b7ddaba17c08a027304277b/public/play/subway-surfers-unity/index.html",
     "Tanuki Sunset": "https://rawcdn.githack.com/gamelist1990/Interstellar/9318db26a2fdc0fc0b7ddaba17c08a027304277b/public/play/tanuki-sunset/index.html",
+    "Tetra Legends": "https://rawcdn.githack.com/udbsite/tetralegends/94fd5c1e011e87ce84eead68b5430208527f71ce/index.html",
 }
